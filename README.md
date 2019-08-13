@@ -1,4 +1,4 @@
-graficas-con-python-2.7
+Algorithms Complexity with Python 2.7
 =======================
 
-programas que grafican la complejidad de algoritmos conocidos. (Fibonacci, BubbleSort,..) 
+Programs that graph Algorithms' complexity like Fibonacci, BubbleSort,..
