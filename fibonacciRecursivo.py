@@ -1,6 +1,3 @@
-graficas-con-python-2.7
-=======================
-
 #!/usr/bin/env python 2.7
 import time
 import pylab as pl
